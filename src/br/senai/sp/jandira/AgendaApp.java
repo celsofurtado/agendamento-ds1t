@@ -18,6 +18,26 @@ public class AgendaApp {
 
 	public static void main(String[] args) {
 		
+		int nota = 10;
+		
+		int notas[] = {6, 9, 8, 7, 5};
+		double[] precos = new double[3];
+		
+		precos[0] = 5.9;
+		precos[1] = 7.97;
+		precos[2] = 52.35;
+		
+		String[] nomes = {"Ana", "Paulo", "Fabiana", "Célia"};
+		
+		String[] cidades = new String[3];
+		cidades[0] = "Jandira";
+		cidades[1] = "Itapevi";
+		cidades[2] = "Cotia";
+		
+		
+		
+	
+		
 		// Criar 5 especialidades 
 		// Cardiologia, Otorrinolaringologia
 		// Gastroenterologia, Fisioterapia
