@@ -4,6 +4,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 
+import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 
 import br.senai.sp.jandira.model.Agenda;
@@ -35,7 +36,7 @@ public class AgendaApp {
 		cidades[2] = "Cotia";
 		
 		
-		
+		JLabel label1 = new JLabel();
 	
 		
 		// Criar 5 especialidades 

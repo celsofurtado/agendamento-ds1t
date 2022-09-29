@@ -3,7 +3,6 @@ package br.senai.sp.jandira.testes;
 import java.util.ArrayList;
 
 import br.senai.sp.jandira.model.Especialidade;
-import br.senai.sp.jandira.model.Pet;
 
 public class TesteWrappers {
 
@@ -11,8 +10,7 @@ public class TesteWrappers {
 		
 		int a = 5;
 		
-		Integer b = 5;
-		
+		Integer b = 5; //wrapper = embrulhar, empacotar, envolver		
 		Double x = 2.9;
 		
 		ArrayList<Especialidade> especialidades = new ArrayList<>();
